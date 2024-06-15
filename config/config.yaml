@@ -19,3 +19,13 @@ training:
   trained_model_path: artifacts/training/model.h5
 
 
+
+
+# import dagshub
+# dagshub.init(repo_owner='aryan.gyn12', repo_name='Disease_Classification_Deep-learning', mlflow=True)
+
+# import mlflow
+# with mlflow.start_run():
+#   mlflow.log_param('parameter name', 'value')
+#   mlflow.log_metric('metric name', 1)
+
